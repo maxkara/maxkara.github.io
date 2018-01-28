@@ -1,0 +1,27 @@
+p.a
+{
+font-size:200%;
+margin-left: 50px
+}
+a
+{
+    color:yellow;
+font-size: 100%;
+text-align:center
+}
+body {
+ background-image:url(http://studyfox.ru/wp-content/uploads/2017/06/rasteniya.jpg);
+  background-repeat:no-repeat; background-position:  center;background-attachment: fixed;
+}
+p.b
+{
+    font-size: 150%;
+    margin-left: 50px
+}
+h1    
+{ color: red;   font-size: 250%;
+    text-align: center;
+    border-style: dotted; 
+    border-color:yellow;
+    border-width:10px 
+}

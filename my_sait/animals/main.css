@@ -1,0 +1,27 @@
+  body {
+ background-image:url(http://wallpapers-images.ru/1920x1080/animal/wallpapers/wallpapers-animal-1.jpg);
+  background-repeat:no-repeat; background-position:  center;background-attachment: fixed;
+}
+p.a
+{
+font-size:200%;
+margin-left: 50px
+}
+a
+{
+ color: darkgreen;
+}
+p.b
+{
+    font-size: 150%;
+    margin-left: 50px
+}
+h1    
+{ color: red;   font-size: 250%;
+    text-align: center;
+    border-style: dotted; 
+    border-color: darkgreen;
+    border-width:10px 
+}
+
+
