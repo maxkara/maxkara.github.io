@@ -1,0 +1,27 @@
+p.a
+{
+font-size:200%;
+margin-left: 50px
+}
+a
+{
+    color: yellowgreen;
+font-size: 100%;
+text-align:center
+}
+body {
+ background-image:url(https://wallperz.com/wp-content/uploads/2016/10/12/wallperz.com-20161012155021.jpg);
+  background-repeat:no-repeat; background-position:  center;background-attachment: fixed;
+}
+p.b
+{
+    font-size: 150%;
+    margin-left: 50px
+}
+h1    
+{ color: red;   font-size: 250%;
+    text-align: center;
+    border-style: dotted; 
+    border-color: yellowgreen;
+    border-width:10px 
+}

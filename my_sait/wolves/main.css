@@ -1,0 +1,46 @@
+   h1    
+{ color: red;   font-size: 250%;
+    text-align: center;
+    border-style: dotted; 
+    border-color: darkgreen;
+    border-width:10px
+    }
+h2
+{font-size: 250%;
+    text-align:center;
+}
+p.a
+{
+font-size:150%;
+margin-left: 50px
+}
+p.b
+{
+font-size:150%;
+margin-left: 50px
+}
+a
+{
+    color:darkgreen;
+font-size: 100%;
+text-align:center
+}
+p.c
+{
+font-size:150%;
+margin-left: 50px
+}
+body {
+ background-image:url(https://i1.wallbox.ru/wallpapers/main/201531/5141f206eea9c9c.jpg);
+  background-repeat:no-repeat; background-position:  center;background-attachment: fixed;
+}
+
+h3
+{font-size: 250%;
+    text-align:center;
+}
+p.d 
+{
+font-size:200%;
+margin-left: 50px
+}
