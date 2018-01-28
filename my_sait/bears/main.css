@@ -1,0 +1,27 @@
+
+p.a
+{
+font-size:200%;
+margin-left: 50px
+}
+a
+{
+    color: darkgreen;
+font-size: 100%;
+text-align:center
+}
+body {
+ background-image:url(https://look.com.ua/pic/201410/1920x1080/look.com.ua-111181.jpg);
+  background-repeat:no-repeat; background-position:  center;background-attachment: fixed;
+}
+ h1    
+{ color: red;   font-size: 250%;
+    text-align: center;
+    border-style: dotted; 
+    border-color: darkgreen;
+    border-width:10px
+    }
+h2
+{font-size: 250%;
+    text-align:center;
+}
